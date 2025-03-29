@@ -1,0 +1,134 @@
+{
+ "category": [
+  {
+    "category": "protein shakes",
+    "status": "active",
+    "id": 1
+  },
+  {
+    "category": "energy drinks",
+    "status": "active",
+    "id": 2
+  },
+  {
+    "category": "pre-workout supplements",
+    "status": "active",
+    "id": 3
+  },
+  {
+    "category": "post-workout supplements",
+    "status": "active",
+    "id": 4
+  },
+  {
+    "category": "hydration & electrolytes",
+    "status": "active",
+    "id": 5
+  }
+],
+  "coupon": [
+    {
+      "coupon": "FITNESS10",
+      "discount": 10,
+      "status": "active",
+      "id": 1
+    },
+    {
+      "coupon": "GAINZ20",
+      "discount": 20,
+      "status": "active",
+      "id": 2
+    }
+  ],
+  "products": 
+    {
+      "title": "MuscleBlaze Raw Whey 1Kg - 24g Protein, 100% Concentrate",
+      "description": "A delicious and nutritious whey protein shake with 25g of protein per serving. Perfect for muscle recovery and growth.",
+      "brand": "MuscleMax",
+      "price": RS. 4250,
+      "category": "protein shakes",
+      "image": "https://img.lazcdn.com/us/lazgcp/f732957c-5f86-4f10-ac8e-78a5dca40a76_ALL-480-72.png_960x960q80.png_.webp",
+      "status": "active",
+      "id": 1
+    },
+    {
+      "title": "Whey 100 Whey Protein 33 Serving 1 kg, 2.2 Lbs",
+      "description": "A plant-based protein shake made with pea and brown rice protein. Contains 20g of protein per serving.",
+      "brand": "VitaProtein",
+      "price": RS. 3000,
+      "category": "protein shakes",
+      "image": "https://www.google.com/imgres?q=Whey%20100%20Whey%20Protein%2033%20Serving%201%20kg%2C%202.2%20Lbs&imgurl=https%3A%2F%2Fstatic-01.daraz.com.np%2Fp%2F2e9651346cc361b268bb5a815f8399c9.jpg&imgrefurl=https%3A%2F%2Fwww.daraz.com.np%2Fproducts%2Fwhey-100-whey-protein-33-serving-1-kg-22-lbs-ultimate-chocolate-flavour-i131306530.html&docid=dmA8RMJCmdgQvM&tbnid=dxvTrFEK-GIM3M&vet=12ahUKEwi84vv5uq2MAxXYUPUHHTpuGZcQM3oECBIQAA..i&w=1289&h=1289&hcb=2&ved=2ahUKEwi84vv5uq2MAxXYUPUHHTpuGZcQM3oECBIQAA",
+      "status": "active",
+      "id": 2
+    },
+    {
+      "title": "MuscleBlaze Biozyme Whey 1kg - Chocolate",
+      "description": "A high-calorie protein shake designed for muscle gain, with 50g of protein and 600 calories per serving.",
+      "brand": "BulkBuilder",
+      "price": RS. 5200,
+      "category": "protein shakes",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jiomart.com%2Fp%2Fgroceries%2Fmuscleblaze-biozyme-performance-whey-rich-chocolate-1-kg-2-2-lb-27-servings-with-creatine-monohydrate-unflavoured-100-g-0-22-lb-33-servings%2F594335502&psig=AOvVaw1X01VU8qQgCdaVWdL1djKj&ust=1743274894180000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLj9yJi7rYwDFQAAAAAdAAAAABAE",
+      "status": "active",
+      "id": 3
+    },
+    {
+      "title": "Fast&Up Reload Electrolyte Boost - Orange Burst (20 Tabs, 5L)t",
+      "description": "A protein-infused energy shake with caffeine and BCAAs for enhanced workout performance.",
+      "brand": "energy drinks",
+      "price": RS 999,
+      "category": "energy drinks",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FFast-Fortify-Combination-Absorption-Effervescent%2Fdp%2FB0B4JPBQRT&psig=AOvVaw0WxooFFi1BRjHrljk-4I9Q&ust=1743275058536000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDV6ue7rYwDFQAAAAAdAAAAABAE",
+      "status": "active",
+      "id": 1
+    },
+    {
+      "title": "PROSUPPS L-Carnitine 3000",
+      "description": "Slow-digesting casein protein shake with 30g of protein per serving, ideal for nighttime recovery.",
+      "brand": "energy drinks",
+      "price": RS 4800,
+      "category": "energy drinks",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FProSupps-L-Carnitine-3000-473ml-Berry%2Fdp%2FB01GVPUOCQ&psig=AOvVaw0B8Zc4j4jr0NaSZMrIRDD5&ust=1743275158991000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCMzpa8rYwDFQAAAAAdAAAAABAE",
+      "status": "active",
+      "id": 2
+    },
+    {
+        "title": "Xtend BCAA Powder 405g",
+      "description": "Slow-digesting casein protein shake with 30g of protein per serving, ideal for nighttime recovery.",
+      "brand": "energy drinks",
+      "price":RS 4000,
+      "category": "energy drinks",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fth.iherb.com%2Fpr%2Fscivation-xtend-bcaas-mango-14-6-oz-415-g%2F57800&psig=AOvVaw0aJuyTul6ebkuquwf9-Tq1&ust=1743275255012000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjMqcS8rYwDFQAAAAAdAAAAABAE",
+      "status": "active",
+      "id": 3
+    },
+      {
+      "title": "Fast&Up Reload Electrolyte Boost - Orange Burst (20 Tabs, 5L)t",
+      "description": "A protein-infused energy shake with caffeine and BCAAs for enhanced workout performance.",
+      "brand": "energy drinks",
+      "price": RS 999,
+      "category": "energy drinks",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FFast-Fortify-Combination-Absorption-Effervescent%2Fdp%2FB0B4JPBQRT&psig=AOvVaw0WxooFFi1BRjHrljk-4I9Q&ust=1743275058536000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDV6ue7rYwDFQAAAAAdAAAAABAE",
+      "status": "active",
+      "id": 1
+    },
+    {
+      "title": "PROSUPPS L-Carnitine 3000",
+      "description": "Slow-digesting casein protein shake with 30g of protein per serving, ideal for nighttime recovery.",
+      "brand": "energy drinks",
+      "price": RS 4800,
+      "category": "energy drinks",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FProSupps-L-Carnitine-3000-473ml-Berry%2Fdp%2FB01GVPUOCQ&psig=AOvVaw0B8Zc4j4jr0NaSZMrIRDD5&ust=1743275158991000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCMzpa8rYwDFQAAAAAdAAAAABAE",
+      "status": "active",
+      "id": 2
+    },
+    {
+        "title": "Xtend BCAA Powder 405g",
+      "description": "Slow-digesting casein protein shake with 30g of protein per serving, ideal for nighttime recovery.",
+      "brand": "energy drinks",
+      "price": 39.99,
+      "category": "energy drinks",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fth.iherb.com%2Fpr%2Fscivation-xtend-bcaas-mango-14-6-oz-415-g%2F57800&psig=AOvVaw0aJuyTul6ebkuquwf9-Tq1&ust=1743275255012000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjMqcS8rYwDFQAAAAAdAAAAABAE",
+      "status": "active",
+      "id": 3
+    }
+}

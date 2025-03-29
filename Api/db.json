@@ -1,0 +1,970 @@
+{
+  "users": [
+    {
+      "username": "Super Admin",
+      "email": "dummy@dummy.com",
+      "password": "123123123",
+      "image": "https://res.cloudinary.com/djorpdesu/image/upload/v1674138093/gdybotabhkk6enkuvlgd.jpg",
+      "userType": "super admin",
+      "status": "active",
+      "id": "1",
+      "phone": "46656545",
+      "house": "666/1",
+      "street": "Hell Street",
+      "state": "Nostate",
+      "country": "Neverland"
+    }
+  ],
+  "customers": [
+    {
+      "username": "Guest User",
+      "email": "guest@dummy.com",
+      "password": "12344321",
+      "image": "http://res.cloudinary.com/djorpdesu/image/upload/v1674138205/vxhdz4ogy6rljpk3zrgq.jpg",
+      "totalSpent": 950,
+      "status": "blocked",
+      "id": "1",
+      "phone": "46656545",
+      "house": "666/1",
+      "street": "Hell Street",
+      "state": "Nostate",
+      "country": "Neverland"
+    },
+    {
+      "username": "Dummy User",
+      "password": "1234",
+      "email": "dummy@dummy.com",
+      "phone": "0123456789",
+      "house": "house no",
+      "street": "street name",
+      "state": "state name",
+      "country": "Virtual",
+      "image": "https://res.cloudinary.com/djorpdesu/image/upload/v1674138093/gdybotabhkk6enkuvlgd.jpg",
+      "status": "active",
+      "id": "2"
+    },
+    {
+      "username": "Dummy User 01",
+      "password": "1234",
+      "email": "dummy01@dummy.com",
+      "phone": "65465465",
+      "house": "666/1",
+      "street": "street street",
+      "state": "Inferno",
+      "country": "neverland",
+      "image": "",
+      "status": "blocked",
+      "id": "3"
+    },
+    {
+      "username": "kapil",
+      "password": "12345",
+      "email": "kapilrajkc@gmail.com",
+      "phone": "2651254196",
+      "house": "dgh",
+      "street": "jggfgj",
+      "state": "dghjdg",
+      "country": "ghhgf",
+      "image": "",
+      "status": "active",
+      "id": "4"
+    },
+    {
+      "id": "269f",
+      "username": "dummy@dummy.com",
+      "password": "123123123",
+      "email": "kapilrajkc1@gmail.com",
+      "phone": "9704167805",
+      "house": "5265",
+      "street": "SFRDGTRE",
+      "state": "sddas",
+      "country": "Nepal",
+      "image": "",
+      "status": "blocked"
+    },
+    {
+      "username": "kapil",
+      "password": "123123123",
+      "email": "kapilrajk@gmail.com",
+      "phone": "9704167805",
+      "house": "5265",
+      "street": "SFRDGTRE",
+      "state": "sddas",
+      "country": "Nepal",
+      "image": "",
+      "status": "active",
+      "id": "_jyoy2U"
+    },
+    {
+      "username": "kapil",
+      "password": "admin@123",
+      "email": "admin@admin.com",
+      "phone": "9704167805",
+      "house": "35",
+      "street": "pargati marg",
+      "state": "bagmati",
+      "country": "Nepal",
+      "image": "",
+      "status": "active",
+      "id": "iWc2KI1"
+    },
+    {
+      "username": "Super Admin",
+      "password": "admin@123",
+      "email": "admin@gmail.com",
+      "phone": "9749770395",
+      "house": "56hvm4",
+      "street": "thankot",
+      "state": "bagmati",
+      "country": "nepal",
+      "image": "",
+      "status": "active",
+      "id": "eIvvVB0"
+    }
+  ],
+  "banner": [
+    {
+      "title": "Banner 01",
+      "status": "active",
+      "image": "https://i.postimg.cc/rFQh3yyv/fea60a177795595-64dcd12f106a9.jpg",
+      "id": "1"
+    },
+    {
+      "title": "Banner 02",
+      "status": "active",
+      "image": "https://i.postimg.cc/2jxTLjWV/85c05e199851925-66586a7f00833.png",
+      "id": "2"
+    },
+    {
+      "title": "Banner 03",
+      "status": "active",
+      "image": "https://i.postimg.cc/TYMLxn1b/c16d6350f0cab5d6d1e57bd583351743.jpg",
+      "id": "3"
+    },
+    {
+      "title": "Banner 04",
+      "status": "active",
+      "image": "https://i.postimg.cc/fLqL10FV/hero.webp",
+      "id": "4"
+    },
+    {
+      "title": "Banner 05",
+      "status": "active",
+      "image": "https://i.postimg.cc/L6DHWP12/medium-gym-boy-girl-poster-poster-for-decoration-decorative-original-imafqccs56unyfu2.webp",
+      "id": "5"
+    }
+  ],
+  "category": [
+    {
+      "category": "Whey Protein",
+      "status": "active",
+      "id": "1"
+    },
+    {
+      "category": "Casein Protein",
+      "status": "active",
+      "id": "2"
+    },
+    {
+      "category": "Plant-Based Protein",
+      "status": "active",
+      "id": "3"
+    },
+    {
+      "category": "Mass Gainer Protein",
+      "status": "active",
+      "id": "4"
+    },
+    {
+      "category": "Isolate Protein",
+      "status": "active",
+      "id": "5"
+    }
+  ],
+  "coupon": [
+    {
+      "coupon": "Logic",
+      "discount": 99,
+      "status": "active",
+      "id": "1"
+    },
+    {
+      "coupon": "Logic54",
+      "discount": 54,
+      "status": "active",
+      "id": "2"
+    },
+    {
+      "coupon": "Logic10",
+      "discount": 10,
+      "status": "active",
+      "id": "3"
+    },
+    {
+      "coupon": "Logic20",
+      "discount": 20,
+      "status": "active",
+      "id": "4"
+    }
+  ],
+  "products": [
+    {
+      "title": "Whey Protein",
+      "description": "Fast-digesting protein, best for muscle recovery after workouts.",
+      "brand": "MuscleTech",
+      "price": 5499,
+      "category": "Whey Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "1"
+    },
+    {
+      "title": "Whey Protein Isolate",
+      "description": "Pure whey protein isolate with high protein content, minimal carbs.",
+      "brand": "MyProtein",
+      "price": 4999,
+      "category": "Whey Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "2"
+    },
+    {
+      "title": "Grass-Fed Whey Protein",
+      "description": "Whey protein sourced from grass-fed cows, hormone-free.",
+      "brand": "Klean Athlete",
+      "price": 5599,
+      "category": "Whey Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "3"
+    },
+    {
+      "title": "Hydrolyzed Whey Protein",
+      "description": "Fast-digesting whey protein for rapid muscle recovery.",
+      "brand": "Jym Supplement Science",
+      "price": 5499,
+      "category": "Whey Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "4"
+    },
+    {
+      "title": "Whey Protein Concentrate",
+      "description": "Affordable whey protein concentrate, great for lean muscle growth.",
+      "brand": "Bodybuilding.com",
+      "price": 3499,
+      "category": "Whey Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "5"
+    },
+    {
+      "title": "Casein Protein",
+      "description": "Slow-digesting protein ideal for nighttime use.",
+      "brand": "Gold Standard",
+      "price": 3999,
+      "category": "Casein Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "6"
+    },
+    {
+      "title": "Casein Nighttime Protein",
+      "description": "Sustained-release protein for slow digestion throughout the night.",
+      "brand": "BULK Natural",
+      "price": 3500,
+      "category": "Casein Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "7"
+    },
+    {
+      "title": "Casein Protein Isolate",
+      "description": "Ultra-pure casein protein isolate, ideal for muscle repair.",
+      "brand": "Kaged Muscle",
+      "price": 4799,
+      "category": "Casein Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "8"
+    },
+    {
+      "title": "Milk Protein Isolate",
+      "description": "High-quality milk protein isolate for sustained amino acid delivery.",
+      "brand": "ProSupps",
+      "price": 3899,
+      "category": "Casein Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "9"
+    },
+    {
+      "title": "Casein Blend Protein",
+      "description": "A blend of casein and whey for sustained and fast digestion.",
+      "brand": "Cellucor",
+      "price": 4299,
+      "category": "Casein Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "10"
+    },
+    {
+      "title": "Plant-Based Protein",
+      "description": "Vegan-friendly protein made from pea, soy, and rice protein.",
+      "brand": "Orgain",
+      "price": 3299,
+      "category": "Plant-Based Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "11"
+    },
+    {
+      "title": "Pea Protein",
+      "description": "Vegan protein derived from peas, offering high digestibility.",
+      "brand": "Vega",
+      "price": 2899,
+      "category": "Plant-Based Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "12"
+    },
+    {
+      "title": "Soy Protein",
+      "description": "Soy-based protein, packed with complete amino acids.",
+      "brand": "NOW Foods",
+      "price": 2999,
+      "category": "Plant-Based Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webpg",
+      "status": "active",
+      "id": "13"
+    },
+    {
+      "title": "Rice Protein",
+      "description": "100% plant-based protein made from brown rice.",
+      "brand": "Orgain",
+      "price": 3599,
+      "category": "Plant-Based Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "14"
+    },
+    {
+      "title": "Vegan Protein Blend",
+      "description": "A blend of pea, hemp, and rice proteins for complete amino acids.",
+      "brand": "Sunwarrior",
+      "price": 3999,
+      "category": "Plant-Based Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "15"
+    },
+    {
+      "title": "Mass Gainer Protein",
+      "description": "High-calorie protein for bulking with an optimal balance of protein, carbs, and fats.",
+      "brand": "Optimum Nutrition",
+      "price": 6999,
+      "category": "Mass Gainer Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webpg",
+      "status": "active",
+      "id": "16"
+    },
+    {
+      "title": "Mass Gainer Whey Protein",
+      "description": "A high-calorie whey-based formula for muscle mass gain.",
+      "brand": "BSN",
+      "price": 7999,
+      "category": "Mass Gainer Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webpg",
+      "status": "active",
+      "id": "17"
+    },
+    {
+      "title": "High-Calorie Mass Gainer",
+      "description": "High-calorie blend to help you bulk up with protein and healthy fats.",
+      "brand": "MusclePharm",
+      "price": 6999,
+      "category": "Mass Gainer Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "18"
+    },
+    {
+      "title": "Vegan Mass Gainer",
+      "description": "Plant-based mass gainer protein for vegans looking to gain muscle mass.",
+      "brand": "Bulk Natural",
+      "price": 7499,
+      "category": "Mass Gainer Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "19"
+    },
+    {
+      "title": "Carb-Based Mass Gainer",
+      "description": "Mass gainer with a focus on carbohydrates to fuel muscle growth and recovery.",
+      "brand": "NutraBio",
+      "price": 7999,
+      "category": "Mass Gainer Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webpg",
+      "status": "active",
+      "id": "20"
+    },
+    {
+      "title": "Isolate Protein",
+      "description": "Low-carb, low-fat, high-purity protein for rapid digestion and optimal muscle growth.",
+      "brand": "Dymatize",
+      "price": 4499,
+      "category": "Isolate Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "21"
+    },
+    {
+      "title": "Hydrolyzed Isolate Protein",
+      "description": "Fast-digesting hydrolyzed isolate protein for quick recovery.",
+      "brand": "MyProtein",
+      "price": 4999,
+      "category": "Isolate Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "22"
+    },
+    {
+      "title": "Whey Protein Isolate",
+      "description": "Pure isolate protein with minimal carbs and fats for lean muscle building.",
+      "brand": "Bodybuilding.com",
+      "price": 5199,
+      "category": "Isolate Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "23"
+    },
+    {
+      "title": "Soy Isolate Protein",
+      "description": "Vegan soy protein isolate for a clean, fast-digesting protein source.",
+      "brand": "NOW Foods",
+      "price": 3499,
+      "category": "Isolate Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "24"
+    },
+    {
+      "title": "Egg White Protein",
+      "description": "High-quality egg white protein for lean muscle development.",
+      "brand": "Bulk",
+      "price": 4299,
+      "category": "Isolate Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "25"
+    },
+    {
+      "title": "Egg White Protein Isolate",
+      "description": "Purified egg white isolate for high protein with minimal fat.",
+      "brand": "Dymatize",
+      "price": 4799,
+      "category": "Isolate Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "26"
+    },
+    {
+      "title": "Vegan Protein Isolate",
+      "description": "Plant-based isolate protein for muscle recovery and growth.",
+      "brand": "Vega",
+      "price": 4499,
+      "category": "Isolate Protein",
+      "image": "hhttps://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "27"
+    },
+    {
+      "title": "Protein Powder Mix (Vegan)",
+      "description": "Premium vegan protein mix for complete amino acid profile.",
+      "brand": "Hemp Protein",
+      "price": 4499,
+      "category": "Isolate Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "28"
+    },
+    {
+      "title": "High-Protein Soy Powder",
+      "description": "High-protein soy powder for vegan athletes looking for rapid digestion.",
+      "brand": "NutraBio",
+      "price": 3999,
+      "category": "Isolate Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "29"
+    },
+    {
+      "title": "Organic Plant Protein",
+      "description": "Organic plant protein made from peas, rice, and hemp for optimal nutrition.",
+      "brand": "Naked Nutrition",
+      "price": 4999,
+      "category": "Isolate Protein",
+      "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+      "status": "active",
+      "id": "30"
+    }
+  ],
+  "orders": [
+    {
+      "customerId": 1,
+      "customerName": "Guest User",
+      "customerEmail": "guest@dummy.com",
+      "date": "2023-01-17T17:33:31.556Z",
+      "coupon": "Logic54",
+      "discountPercent": 54,
+      "subTotal": 481.87,
+      "total": 221.66,
+      "deliveryInfo": {
+        "name": "Guest User",
+        "phone": "46656545",
+        "house": "666/1",
+        "street": "Hell Street",
+        "state": "Nostate",
+        "country": "Neverland"
+      },
+      "products": [
+        {
+          "id": 10,
+          "title": "1TB Internal SSD",
+          "price": 109,
+          "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+          "quantity": 1,
+          "total": 109
+        },
+        {
+          "id": 11,
+          "title": "256GB SSD",
+          "price": 109,
+          "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+          "quantity": 2,
+          "total": 218
+        },
+        {
+          "id": 2,
+          "title": "T-Shirts ",
+          "price": 22.3,
+          "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+          "quantity": 3,
+          "total": 66.9
+        },
+        {
+          "id": 3,
+          "title": "Jacket",
+          "price": 55.99,
+          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+          "quantity": 1,
+          "total": 55.99
+        },
+        {
+          "id": 4,
+          "title": "Casual Slim Fit",
+          "price": 15.99,
+          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+          "quantity": 2,
+          "total": 31.98
+        }
+      ],
+      "status": "active",
+      "id": "1"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Dummy User",
+      "customerEmail": "dummy@dummy.com",
+      "date": "2023-01-18T17:43:09.710Z",
+      "coupon": "Logic",
+      "discountPercent": 99,
+      "subTotal": 1250.92,
+      "total": 12.51,
+      "deliveryInfo": {
+        "name": "Dummy User",
+        "phone": "0123456789",
+        "house": "house no",
+        "street": "street name",
+        "state": "state name",
+        "country": "Virtual"
+      },
+      "products": [
+        {
+          "id": 1,
+          "title": "Fjallraven Nothing",
+          "price": 109.95,
+          "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+          "quantity": 1,
+          "total": 109.95
+        },
+        {
+          "id": 4,
+          "title": "Casual Slim Fit",
+          "price": 15.99,
+          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+          "quantity": 1,
+          "total": 15.99
+        },
+        {
+          "id": 8,
+          "title": "Double",
+          "price": 10.99,
+          "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+          "quantity": 1,
+          "total": 10.99
+        },
+        {
+          "id": 14,
+          "title": "49-Inch Display ",
+          "price": 999.99,
+          "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+          "quantity": 1,
+          "total": 999.99
+        },
+        {
+          "id": 12,
+          "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+          "price": 114,
+          "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+          "quantity": 1,
+          "total": 114
+        }
+      ],
+      "status": "active",
+      "id": "2"
+    },
+    {
+      "customerId": 1,
+      "customerName": "Guest User",
+      "customerEmail": "guest@dummy.com",
+      "date": "2023-01-19T17:46:01.731Z",
+      "coupon": "Logic10",
+      "discountPercent": 10,
+      "subTotal": 1613,
+      "total": 1451.7,
+      "deliveryInfo": {
+        "name": "Guest User",
+        "phone": "46656545",
+        "house": "666/1",
+        "street": "Hell Street",
+        "state": "Nostate",
+        "country": "Neverland"
+      },
+      "products": [
+        {
+          "id": 9,
+          "title": "WD 2TB Hard Drive ",
+          "price": 64,
+          "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+          "quantity": 3,
+          "total": 192
+        },
+        {
+          "id": 10,
+          "title": "1TB Internal SSD",
+          "price": 109,
+          "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+          "quantity": 1,
+          "total": 109
+        },
+        {
+          "id": 13,
+          "title": "Acer SB220Q bi 21.5",
+          "price": 599,
+          "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+          "quantity": 2,
+          "total": 1198
+        },
+        {
+          "id": 12,
+          "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+          "price": 114,
+          "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+          "quantity": 1,
+          "total": 114
+        }
+      ],
+      "status": "active",
+      "id": "3"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Dummy User",
+      "customerEmail": "dummy@dummy.com",
+      "date": "2023-01-20T17:46:47.948Z",
+      "coupon": "Logic20",
+      "discountPercent": 20,
+      "subTotal": 1550.98,
+      "total": 1240.78,
+      "deliveryInfo": {
+        "name": "Dummy User",
+        "phone": "0123456789",
+        "house": "house no",
+        "street": "street name",
+        "state": "state name",
+        "country": "Virtual"
+      },
+      "products": [
+        {
+          "id": 10,
+          "title": "1TB Internal SSD",
+          "price": 109,
+          "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+          "quantity": 2,
+          "total": 218
+        },
+        {
+          "id": 11,
+          "title": "256GB SSD",
+          "price": 109,
+          "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+          "quantity": 1,
+          "total": 109
+        },
+        {
+          "id": 14,
+          "title": "49-Inch Display ",
+          "price": 999.99,
+          "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+          "quantity": 1,
+          "total": 999.99
+        },
+        {
+          "id": 3,
+          "title": "Jacket",
+          "price": 55.99,
+          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+          "quantity": 1,
+          "total": 55.99
+        },
+        {
+          "id": 6,
+          "title": "Micropave ",
+          "price": 168,
+          "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+          "quantity": 1,
+          "total": 168
+        }
+      ],
+      "status": "pending",
+      "id": "4"
+    },
+    {
+      "customerId": 1,
+      "customerName": "Guest User",
+      "customerEmail": "guest@dummy.com",
+      "date": "2023-01-21T17:47:33.795Z",
+      "coupon": "",
+      "discountPercent": 0,
+      "subTotal": 253.87,
+      "total": 253.87,
+      "deliveryInfo": {
+        "name": "Guest User",
+        "phone": "46656545",
+        "house": "666/1",
+        "street": "Hell Street",
+        "state": "Nostate",
+        "country": "Neverland"
+      },
+      "products": [
+        {
+          "id": 2,
+          "title": "T-Shirts ",
+          "price": 22.3,
+          "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+          "quantity": 3,
+          "total": 66.9
+        },
+        {
+          "id": 3,
+          "title": "Jacket",
+          "price": 55.99,
+          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+          "quantity": 2,
+          "total": 111.98
+        },
+        {
+          "id": 8,
+          "title": "Double",
+          "price": 10.99,
+          "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+          "quantity": 1,
+          "total": 10.99
+        },
+        {
+          "id": 9,
+          "title": "WD 2TB Hard Drive ",
+          "price": 64,
+          "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+          "quantity": 1,
+          "total": 64
+        }
+      ],
+      "status": "pending",
+      "id": "5"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Dummy User",
+      "customerEmail": "dummy@dummy.com",
+      "date": "2023-01-22T17:48:09.483Z",
+      "coupon": "Logic20",
+      "discountPercent": 20,
+      "subTotal": 449.92,
+      "total": 359.94,
+      "deliveryInfo": {
+        "name": "Dummy User",
+        "phone": "0123456789",
+        "house": "house no",
+        "street": "street name",
+        "state": "state name",
+        "country": "Virtual"
+      },
+      "products": [
+        {
+          "id": 12,
+          "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+          "price": 114,
+          "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+          "quantity": 2,
+          "total": 228
+        },
+        {
+          "id": 4,
+          "title": "Casual Slim Fit",
+          "price": 15.99,
+          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+          "quantity": 3,
+          "total": 47.97
+        },
+        {
+          "id": 1,
+          "title": "Fjallraven Nothing",
+          "price": 109.95,
+          "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+          "quantity": 1,
+          "total": 109.95
+        },
+        {
+          "id": 9,
+          "title": "WD 2TB Hard Drive ",
+          "price": 64,
+          "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+          "quantity": 1,
+          "total": 64
+        }
+      ],
+      "status": "pending",
+      "id": "6"
+    },
+    {
+      "customerId": "269f",
+      "customerName": "dummy@dummy.com",
+      "customerEmail": "kapilrajkc1@gmail.com",
+      "date": "2025-03-28T21:41:27.760Z",
+      "coupon": "",
+      "discountPercent": 0,
+      "subTotal": 21996,
+      "total": 21996,
+      "deliveryInfo": {
+        "name": "dummy@dummy.com",
+        "phone": "9704167805",
+        "house": "5265",
+        "street": "SFRDGTRE",
+        "state": "sddas",
+        "country": "Nepal"
+      },
+      "products": [
+        {
+          "id": "22",
+          "title": "Hydrolyzed Isolate Protein",
+          "price": 4999,
+          "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+          "quantity": 1,
+          "total": 4999
+        },
+        {
+          "id": "23",
+          "title": "Whey Protein Isolate",
+          "price": 5199,
+          "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+          "quantity": 1,
+          "total": 5199
+        },
+        {
+          "id": "18",
+          "title": "High-Calorie Mass Gainer",
+          "price": 6999,
+          "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+          "quantity": 1,
+          "total": 6999
+        },
+        {
+          "id": "8",
+          "title": "Casein Protein Isolate",
+          "price": 4799,
+          "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+          "quantity": 1,
+          "total": 4799
+        }
+      ],
+      "status": "pending",
+      "id": "KDiRZvl"
+    },
+    {
+      "customerId": "_jyoy2U",
+      "customerName": "kapil",
+      "customerEmail": "kapilrajk@gmail.com",
+      "date": "2025-03-29T03:29:17.337Z",
+      "coupon": "",
+      "discountPercent": 0,
+      "subTotal": 21596,
+      "total": 21596,
+      "deliveryInfo": {
+        "name": "kapil",
+        "phone": "9704167805",
+        "house": "5265",
+        "street": "SFRDGTRE",
+        "state": "sddas",
+        "country": "Nepal"
+      },
+      "products": [
+        {
+          "id": "1",
+          "title": "Whey Protein",
+          "price": 5499,
+          "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+          "quantity": 1,
+          "total": 5499
+        },
+        {
+          "id": "2",
+          "title": "Whey Protein Isolate",
+          "price": 4999,
+          "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+          "quantity": 1,
+          "total": 4999
+        },
+        {
+          "id": "3",
+          "title": "Grass-Fed Whey Protein",
+          "price": 5599,
+          "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+          "quantity": 1,
+          "total": 5599
+        },
+        {
+          "id": "4",
+          "title": "Hydrolyzed Whey Protein",
+          "price": 5499,
+          "image": "https://i.postimg.cc/TPFdp2YS/Isolate-Whey-Protein-Strawberry-1800g.webp",
+          "quantity": 1,
+          "total": 5499
+        }
+      ],
+      "status": "pending",
+      "id": "CJW1l-3"
+    }
+  ]
+}
